@@ -1,9 +1,0 @@
-[build]
-  publish = "."
-  command = ""
-
-[[redirects]]
-  from = "/api/*"
-  to = "/server.py"
-  status = 200
-  force = true
