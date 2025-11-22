@@ -1,2 +1,0 @@
-window.RAPIDAPI_KEY = 'd8837667a4mshea92be3650c7588p1651e4jsn99dbfa063faa';
-window.OPENWEATHER_API_KEY = '71f5b6ae261ea0bf23ecc455e78d081a';
